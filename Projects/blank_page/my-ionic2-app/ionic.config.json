@@ -1,0 +1,7 @@
+{
+  "name": "my-ionic2-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
